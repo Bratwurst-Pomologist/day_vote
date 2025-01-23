@@ -5,7 +5,7 @@ depends: default
 
 commands |  meaning
 ____________________
-vday     |  start a day vote
-vy       |  vote yes
-vn       |  vote no
-va       |  abstain
+/vday     |  start a day vote
+/vy       |  vote yes
+/vn       |  vote no
+/va       |  abstain
