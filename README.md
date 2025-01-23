@@ -4,7 +4,7 @@ Minetest (Luanti) mod. A simple vote system for players to start a vote to set d
 depends: default 
 
 commands |  meaning
--------------------
+____________________
 vday     |  start a day vote
 vy       |  vote yes
 vn       |  vote no
